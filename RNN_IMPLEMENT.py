@@ -9,36 +9,44 @@ Original file is located at
 
 ! git clone https://github.com/someshsingh22/Sherlocked
 
+#Set File path and load text
 file_path="./Sherlocked/Dataset/Clean/cano.txt"
 data=open(file_path).read()
 
+#IMPORTS
 import re
 import pandas as pd
 from collections import Counter
+
+#Remove extra spaces and newlines
 corpus=re.findall(r"[\w']+|[.,!?;\n]",data)
+
+#Remove Words with frequency < 5
 freq_corpus=Counter(corpus)
 corpus = [ele for ele in corpus if freq_corpus[ele] > 5] 
 dictionary=list(set(corpus))
 
+#mask and unmask words from corpus
 ind_word = {ind:word for ind, word in enumerate(dictionary)}
 get_word = lambda index : ind_word[index]
 word_ind = {word:ind for ind, word in enumerate(dictionary)}
 get_ind = lambda word : word_ind[word]
 mask = lambda List : list(map(get_ind,List))
 unmask = lambda List : list(map(get_word,List))
-
 masked_corpus = mask(corpus)
 
+#Make sequences of 60 and step 1 from corpus
 SEQUENCE_LEN=60
 STEP = 1
 sentences = []
 next_words = []
 for i in range(0, len(corpus) - SEQUENCE_LEN, STEP):
-  # Only add sequences where no word is in ignored_words
   sentences.append(masked_corpus[i: i + SEQUENCE_LEN])
   next_words.append(masked_corpus[i + SEQUENCE_LEN])
 
-batch_size=1024
+
+#make generator for training batches
+batch_size=512
 def corpus_generator(batch_size=batch_size):
   index = 0
   while True:    
@@ -53,6 +61,7 @@ def corpus_generator(batch_size=batch_size):
           index = 0
     yield X, Y
 
+#Define Model
 from keras.models import Sequential
 from keras.layers import Bidirectional, CuDNNLSTM, Dropout, Dense, Activation
 from keras import optimizers
@@ -65,8 +74,10 @@ model.add(Activation('softmax'))
 rmsprop=optimizers.RMSprop(lr=0.05, rho=0.9,  decay=1e-5)
 model.compile(loss="categorical_crossentropy", optimizer=rmsprop)
 
+#fit the model for 20 epochs
 model.fit_generator(corpus_generator(),steps_per_epoch=len(sentences)//batch_size,epochs=1,verbose=1)
 
+#sampler for generator
 def sample(preds, temperature=1.0):
     # helper function to sample an index from a probability array
     preds = np.asarray(preds).astype('float64')
@@ -76,6 +87,7 @@ def sample(preds, temperature=1.0):
     probas = np.random.multinomial(1, preds, 1)
     return np.argmax(probas)
 
+#generate text from seed and given diversity
 def generate_text(model, indices_word, word_indices, seed, diversity, quantity,sequence_length=SEQUENCE_LEN):
     sentence = seed.split(" ")
     for i in range(quantity):
@@ -90,11 +102,7 @@ def generate_text(model, indices_word, word_indices, seed, diversity, quantity,s
         sentence.append(next_word)
     return(sentence)
 
-ss=generate_text(model,ind_word,word_ind,a,1,60)
-
-ss
-
-ss
-
-print(a)
-
+#Get reply from given seed
+seed = "Sherlock Rushed"
+reply=generate_text(model,ind_word,word_ind,seed,0.7)
+print(reply)
