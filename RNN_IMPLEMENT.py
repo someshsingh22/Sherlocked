@@ -104,5 +104,5 @@ def generate_text(model, indices_word, word_indices, seed, diversity, quantity,s
 
 #Get reply from given seed
 seed = "Sherlock Rushed"
-reply=generate_text(model,ind_word,word_ind,seed,0.7)
+reply=generate_text(model,ind_word,word_ind,seed,0.7,10)
 print(reply)
