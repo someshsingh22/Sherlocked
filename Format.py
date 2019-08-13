@@ -1,16 +1,29 @@
 #imports
 import re
 import os
+import string
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument('--filename','-f', help="Enter Filename",type=str)
+args=parser.parse_args()
+filename=vars(args)["filename"]
+if filename == None:
+	filename = "cano.txt"
+else : filename=filename+'.txt'
 
 #set path for file
-Data_Path='Dataset/cano.txt'
-Write_Path=Data_Path[:8]+"Clean/"+Data_Path[8:]
+Data_Path='Dataset/{}'.format(filename)
+Write_Path="Dataset/Clean/{}".format(filename)
 
 #clean file
 def cleaner(file_path):
   text = open(file_path).read()
   text=re.sub(r'\n+', '\n',text).strip()
   text=re.sub(' +', ' ',text).strip()
+  text=' '.join(re.findall(r"[\w']+|[.,!?;\n]",text))
+  retain= "[^{}]".format(string.ascii_letters+' .,!?;\n')
+  text=re.sub(retain,'',text)
+  text=' '.join(text.split())
   return text
 
 #write and save it in clean folder
