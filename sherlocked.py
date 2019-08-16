@@ -98,7 +98,7 @@ class Data :
   def pre_process(self):
     start=time.time()
     # Read datat and split to words from files
-    text=open(self.flags.data_dir).read().split()[:64*256+1]
+    text=open(self.flags.data_dir).read().split()
     print("Dataset is of {} words".format(len(text)))
 
     # Create Frequency Dictionary
