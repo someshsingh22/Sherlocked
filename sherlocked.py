@@ -26,7 +26,6 @@ flags = Namespace(
     lr=0.01,
     dropout=0.1,
     gradients_norm=5,
-    
 )
 
 def calculate_time(function):
