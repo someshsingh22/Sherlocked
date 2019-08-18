@@ -1,0 +1,195 @@
+Model 1 : Bi-2-512
+seq_size : 64
+embedding_size : 256
+num_layers : 2
+lstm_size : 512
+gradients_norm : 5
+is_bidirectional : True
+-------------------- 
+Epoch 10:
+Harry is to be in the Ministry . I don was going to be in the way . ” “ You ’ m going to do , I don , you know , ” said Harry , and he could see . “ I can have a good - Who is not to be a good , you ’ ve got a few of the Dark Arts ! You can have to be
+--------------------
+-------------------- 
+Epoch 20:
+Harry is , but it was no longer to do , it ’ d be in the hospital wing at Hogwarts . … But the rest , he ’ d be able a bit more difficult . He knew that he was in the world , and he was still trying not to be a bit more to the hospital of the Dark Arts , but I ’ d just be a lot
+--------------------
+-------------------- 
+Epoch 30:
+Harry is to do , I was going to do it , and he was trying ter be able . … I think he ’ d got a new broom . I ’ m sorry , ” she said . She turned the corner , and she turned to Harry and Ron and Ron ’ s hand , and Harry saw the others ’ s head was sitting on a table , and
+--------------------
+-------------------- 
+Epoch 40:
+Harry is , and it ’ ll take him back to the castle and find out a few days , I think I ’ m going on — and we don ’ want a bit o ’ a bit of a good , ” said Harry , who seemed determined . “ I ’ m sorry ! ” “ I don ’ s just think I can do , I can , you
+--------------------
+-------------------- 
+Epoch 50:
+Harry is . … He had been so keen for the first time . He had no chance for the last time , the most beautiful , and he could not be able for the rest , but he was sure he was going on . “ I ’ m sorry ! ” Harry yelled . “ What ’ s the matter ? ” “ Yes — I don , you ’ re
+--------------------
+-------------------- 
+Epoch 60:
+Harry is to him ; his father was going back , but he didn ’ seem ter know , I think , it was a bit of a good , and that he ’ d never have been able to find the boy to die , but it was a very good person . ” He looked at her , but he was sure that he was going to have a clue .
+--------------------
+-------------------- 
+Epoch 70:
+Harry is up . “ What ’ ve you got to be here ! What is that ? ” Ron said to Hermione , who looked at each other and turned to Ron , who was still looking around . The door was open again . The crowd was thinning . The door of a door opened , then a second later , his face in a rush of gold and a strong
+--------------------
+-------------------- 
+Epoch 80:
+Harry is . “ I thought you would know , ” he told Harry and Ron , “ you can tell me why Dumbledore would have been killed , I think , it ’ ll be a good chance to hide him . … ” “ What ? What are they going ? What are they going to get in to ? ” “ I ’ m sure , Harry ! You ’
+--------------------
+-------------------- 
+Epoch 90:
+Harry is in . “ You know ? I ’ ve got to go and get it out of here , ” he went back into the room . “ I don , you ’ d like to see you in the first week of it — ” “ I don , I ’ m not sure that ’ s why you ’ re going to do anything , I ’ m sorry
+--------------------
+-------------------- 
+Epoch 100:
+Harry is up . “ You know , you can ’ leave . … What ’ ll happen ? ” said Hagrid . Harry looked around at him . He had not noticed that the whole story seemed to have been in his life . “ So , ” said Dumbledore , smiling . Harry looked back at Harry , and he looked back at the sight of Harry and Hermione . “
+--------------------**
+This took 4088.552517414093s
+--------------------**
+Model 2 : Bi-1-1024
+seq_size : 64
+embedding_size : 256
+num_layers : 1
+lstm_size : 1024
+gradients_norm : 5
+is_bidirectional : True
+-------------------- 
+Epoch 10:
+Harry is not a bit of an Auror , but he had never heard a bit of a lot . He was trying to get past the door . He was not to keep it . “ I don ’ know — I can tell you — ? But I don have told me to me , ” he told Harry . “ I ’ ll be back in a minute — ”
+--------------------
+-------------------- 
+Epoch 20:
+Harry is a good teacher , ” said Harry , and she pulled out a hand on her clipboard , “ I mean … we ’ ll just have a look on the train . I ’ ll be in touch with you , I think . … ” “ You ’ re joking , Perce ! ” Harry shouted . The crowd was now so crowded and noisy and the others .
+--------------------
+-------------------- 
+Epoch 30:
+Harry is not to say to say that he was in his office at the end of his life , but he had no body to be the lair of his wand . “ So , sir ? What are you doing ? What ’ s going on ? I mean ? ” “ I have spied and you will be able to see me , I ’ ll have to kill him
+--------------------
+-------------------- 
+Epoch 40:
+Harry is up to his office . The moment the Death Eaters were still moving . The wizard who had been watching him , though Harry ’ s hand had twitched back to the floor , but before they could say another word of Black family . “ I ’ m going to bed with me ! He was going to try and get to the door , ” said Ron in disbelief
+--------------------
+-------------------- 
+Epoch 50:
+Harry is — with Harry and George pushed open his eyes when he had just been knocked out of it before he had first met him . “ You ’ ve got the right book , Ron , ” said Hermione in a low , worried . She took her wand from Harry to look down at her . She looked very pleased . She took a long , tremulous look and turned
+--------------------
+-------------------- 
+Epoch 60:
+Harry is moan by the Wizengamot , and he was always talking to himself . Offer something ? Was he truly master … not ? ” “ Yes , but — but — not that — you ’ re not a wizard , Harry . … ” “ I don think of those , is he ? I was just telling him something . ” “ Well … yeah … ” said Bagman
+--------------------
+-------------------- 
+Epoch 70:
+Harry is with the others as they ’ re the ones to be left , it must perform Wizarding community , but I think we ’ re just going into hiding them . ” They were talking quietly at their faces . “ Filth ! ” said Fred . He was looking at Hermione , who was now patting Harry ’ in his hand , and said , “ Well — ” “
+--------------------
+-------------------- 
+Epoch 80:
+Harry is wonderful again . It was very late … “ No … ” He opened his eyes . “ You are quite right , Harry , ” said Dumbledore hesitantly . He turned his wand without the man still standing , which , as though frightened of dirtying , sweeping the ground between his teeth , and he took out his wand , muttered , “ Harry , come on now .
+--------------------
+-------------------- 
+Epoch 90:
+Harry is alone this for sure that I ’ ll go and check Common your team , and I think I will be delighted by next . I ’ ve never had a good idea of your way into that room … ” But she looked suddenly and angry . After a few seconds ’ he turned over , and he slid out Ron , Hermione ’ s arms wide . There wasn
+--------------------
+-------------------- 
+Epoch 100:
+Harry is reassured for Harry ’ d do , he was going to go wrong . … It wasn , who had it really worked … for this , Harry , the more subjects he had ever heard of a career as large giants these girls ’ , and Harry had to buy the Invisibility where book had just been a waste week of practice . Harry , meanwhile , had been a
+--------------------
+This took 5519.905243396759s
+--------------------**
+Model 3 : Uni-2-512
+seq_size : 64
+embedding_size : 256
+num_layers : 2
+lstm_size : 512
+gradients_norm : 5
+is_bidirectional : False
+-------------------- 
+Epoch 10:
+Harry is not to be able . I don ’ t know that you are not going to be in a good time . He ’ d be able to get out . ” He looked up to the ground . Harry felt the only time he would be in an Auror . “ Well — ” “ I ’ ve never been a good - borns , I ’ d have to
+--------------------
+-------------------- 
+Epoch 20:
+Harry is , I know , and I think we can be a bit more than I ’ ve been trying , ” Harry lied . The door of Harry was still standing at his face , then looked around at his knees at the end of the window . “ I ’ ve got a lot of the Dark Arts . ” “ I think you should have a good , but
+--------------------
+-------------------- 
+Epoch 30:
+Harry is not even to do with the Ministry , but he was not to tell me what he was going to get back , but it was not a very nice , very long . I can ’ t have a lot , and I don ’ know what I want , and if he ’ d better get back to the Department , ” said Ron . “ You ’ ll
+--------------------
+-------------------- 
+Epoch 40:
+Harry is not . … I have no idea , I ’ m afraid I could be in the hospital wing . … ” “ I ’ m not going back to the Ministry of the Phoenix , I ’ ve got to be a bit . I ’ ve had enough . ” He looked around at Ron . “ I think we ’ re not supposed to be in the Order
+--------------------
+-------------------- 
+Epoch 50:
+Harry is not . ” “ I ’ re not supposed ter be able to see him . ” “ But I don — not — ? ” “ I think it ’ s the point , you ’ ll go back to bed ! I don , you know . Goin ’ s a good , ” said Hermione , looking around . Harry looked around and sat down , staring at
+--------------------
+-------------------- 
+Epoch 60:
+Harry is at Hogwarts . He had never seen her before . … ” “ But you didn never have a good idea ! I think I was going , I think I knew what I was saying — well — I ’ m not going . … I ’ ve got to go to bed and see you . … ” “ I don ’ t know what it was , Harry
+--------------------
+-------------------- 
+Epoch 70:
+Harry is . “ You are the one , ” she said . He looked at Harry , and he was not going . The Dursleys knew that she had been looking for him . He had to admit it . “ But he didn ’ ta heard him . I don ’ know what he ’ ll have to do , I mean , it was just that you can get rid
+--------------------
+-------------------- 
+Epoch 80:
+Harry is , but he never thought he ’ s a good idea , but he ’ d have to go back to Azkaban . ” Harry felt a little more than his smarting , but he was still fuming : “ I ’ ave nevair a very clever boy in the Daily Prophets for the Disposal o the tournament . ” Dumbledore turned away and saw that he could not help feeling
+--------------------
+-------------------- 
+Epoch 90:
+Harry is . ” Harry stared back at him ; he had never heard him say that the Dursleys had heard that the room had been made to take the cloak , to find himself facing his father , but he did so . … “ I ’ ve never known , I think it is , ” said Hermione , looking up . The other teachers were sitting on the spot where
+--------------------
+-------------------- 
+Epoch 100:
+Harry is not have been going to . “ The Dark Lord wants to kill the Stone for a while — ” “ Yes , I think you ’ ve been thinking of a boggart , Harry ? I ’ m afraid I am sure it is , I ’ m sure I was a bit more cheerful — I don , I ’ ll see him . He says he misses the
+--------------------
+This took 4084.988041639328s
+--------------------**
+Model 4 : Uni-1-1024
+seq_size : 64
+embedding_size : 256
+num_layers : 1
+lstm_size : 1024
+gradients_norm : 5
+is_bidirectional : False
+-------------------- 
+Epoch 10:
+Harry is not going back , but it would not know how to do it — he had been given his own wand . … He had never been able - fetched the previous night before . He had been a good idea , he was still alive for a while . … “ I ’ ll be able ter go , you , it was a bit , but he ’ ll
+--------------------
+-------------------- 
+Epoch 20:
+Harry is a good idea . … ” “ I know you ’ d have to go back , ” he told them , taking the back of her hand . Harry looked at the other . He had never heard a word to him . He did not know what had just happened , but he was not sure that she might be in the library last week . He had not
+--------------------
+-------------------- 
+Epoch 30:
+Harry is going back to the school for days . … But then he remembered that he was Undesirable , would be so brave … he had to reschedule control . He wanted to know how much homework they had been in the area ? Would anyone know why he had not been in his life … he was going to be able for the job . “ You ’ re not going
+--------------------
+-------------------- 
+Epoch 40:
+Harry is not thinking of this , he was sure that they would not be able enough for this . He didn ’ seem to think he ’ m sure he was trying to get past the dragon ’ s absence , as if he knew what he had done , and he had not been able - to sort him , but he was not going back to school . He would
+--------------------
+-------------------- 
+Epoch 50:
+Harry is . Dumbledore took the last of her glass to a large , spotted that was covered with silver , and a bronze eagle , and the dragon ’ ll be draped with a flouncy , flowered , and an iron - fashioned of frog , which was that the moment he opened the lid of the car . Harry could smell salt and see where his knees had been torn between
+--------------------
+-------------------- 
+Epoch 60:
+Harry is . He didn had never been so pleased to be . “ You ’ re going too , Harry . ” He handed Harry a small and a bit of chocolate ’ s head in his pocket . “ You don ’ know better than it to me . I mean , you might be grateful if he ’ ll have you , I don must get back , I ’
+--------------------
+-------------------- 
+Epoch 70:
+Harry is together : Harry knew where Sirius was how strange he felt . “ What is it , Potter ! ” he said , staring at the place . It was a few feet , and the whimperings it was almost at once . “ I know I ’ m not , ” said Harry , looking around the dark . He had been focusing so far this time , and then
+--------------------
+-------------------- 
+Epoch 80:
+Harry is together . “ So … ” He hesitated . There was a knock upon the door . He was standing at the foot from below them , then turned to face the room . He had no idea what was coming in the corridor outside ; the rest had now become the tiniest rustle ; a few of them stumbled ; he had never seen anything so pitiful ; his nerves
+--------------------
+-------------------- 
+Epoch 90:
+Harry is actually . They sat it then , with an even deeper dip in curtains of the front page . “ Oh , ” he grunted . He was shaking all his anger as if as he was about his sister and the pain of all the old headmasters in all , Harry didn ’ feel like Hermione was here . Harry was sure he would not be able - ever in
+--------------------
+-------------------- 
+Epoch 100:
+Harry is together . “ Well , the Minister was looking after her , ” said Ron . Harry looked around ; he was too slow to the light . The crowd seemed as there was a large and heavy egg . They didn ’ need help . The sight was the most miserable thing in their nostrils . The de mound of earth was , as Harry had seen his father and
+--------------------
+This took 5514.548342466354s
