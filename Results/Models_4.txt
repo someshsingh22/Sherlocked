@@ -1,0 +1,39 @@
+Model 4 : Uni-1-1024
+seq_size : 64
+embedding_size : 256
+num_layers : 1
+lstm_size : 1024
+gradients_norm : 5
+is_bidirectional : False
+  
+Epoch 10:
+Harry is not going back , but it would not know how to do it — he had been given his own wand . … He had never been able - fetched the previous night before . He had been a good idea , he was still alive for a while . … “ I ’ ll be able ter go , you , it was a bit , but he ’ ll
+ 
+Epoch 20:
+Harry is a good idea . … ” “ I know you ’ d have to go back , ” he told them , taking the back of her hand . Harry looked at the other . He had never heard a word to him . He did not know what had just happened , but he was not sure that she might be in the library last week . He had not
+ 
+Epoch 30:
+Harry is going back to the school for days . … But then he remembered that he was Undesirable , would be so brave … he had to reschedule control . He wanted to know how much homework they had been in the area ? Would anyone know why he had not been in his life … he was going to be able for the job . “ You ’ re not going
+ 
+Epoch 40:
+Harry is not thinking of this , he was sure that they would not be able enough for this . He didn ’ seem to think he ’ m sure he was trying to get past the dragon ’ s absence , as if he knew what he had done , and he had not been able - to sort him , but he was not going back to school . He would
+ 
+Epoch 50:
+Harry is . Dumbledore took the last of her glass to a large , spotted that was covered with silver , and a bronze eagle , and the dragon ’ ll be draped with a flouncy , flowered , and an iron - fashioned of frog , which was that the moment he opened the lid of the car . Harry could smell salt and see where his knees had been torn between
+ 
+Epoch 60:
+Harry is . He didn had never been so pleased to be . “ You ’ re going too , Harry . ” He handed Harry a small and a bit of chocolate ’ s head in his pocket . “ You don ’ know better than it to me . I mean , you might be grateful if he ’ ll have you , I don must get back , I ’
+ 
+Epoch 70:
+Harry is together : Harry knew where Sirius was how strange he felt . “ What is it , Potter ! ” he said , staring at the place . It was a few feet , and the whimperings it was almost at once . “ I know I ’ m not , ” said Harry , looking around the dark . He had been focusing so far this time , and then
+ 
+Epoch 80:
+Harry is together . “ So … ” He hesitated . There was a knock upon the door . He was standing at the foot from below them , then turned to face the room . He had no idea what was coming in the corridor outside ; the rest had now become the tiniest rustle ; a few of them stumbled ; he had never seen anything so pitiful ; his nerves
+ 
+Epoch 90:
+Harry is actually . They sat it then , with an even deeper dip in curtains of the front page . “ Oh , ” he grunted . He was shaking all his anger as if as he was about his sister and the pain of all the old headmasters in all , Harry didn ’ feel like Hermione was here . Harry was sure he would not be able - ever in
+ 
+Epoch 100:
+Harry is together . “ Well , the Minister was looking after her , ” said Ron . Harry looked around ; he was too slow to the light . The crowd seemed as there was a large and heavy egg . They didn ’ need help . The sight was the most miserable thing in their nostrils . The de mound of earth was , as Harry had seen his father and
+ 
+This took 5514.548342466354s

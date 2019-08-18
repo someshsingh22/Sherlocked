@@ -1,0 +1,39 @@
+Model 2 : Bi-1-1024
+seq_size : 64
+embedding_size : 256
+num_layers : 1
+lstm_size : 1024
+gradients_norm : 5
+is_bidirectional : True
+ 
+Epoch 10:
+Harry is not a bit of an Auror , but he had never heard a bit of a lot . He was trying to get past the door . He was not to keep it . “ I don ’ know — I can tell you — ? But I don have told me to me , ” he told Harry . “ I ’ ll be back in a minute — ”
+ 
+Epoch 20:
+Harry is a good teacher , ” said Harry , and she pulled out a hand on her clipboard , “ I mean … we ’ ll just have a look on the train . I ’ ll be in touch with you , I think . … ” “ You ’ re joking , Perce ! ” Harry shouted . The crowd was now so crowded and noisy and the others .
+ 
+Epoch 30:
+Harry is not to say to say that he was in his office at the end of his life , but he had no body to be the lair of his wand . “ So , sir ? What are you doing ? What ’ s going on ? I mean ? ” “ I have spied and you will be able to see me , I ’ ll have to kill him
+ 
+Epoch 40:
+Harry is up to his office . The moment the Death Eaters were still moving . The wizard who had been watching him , though Harry ’ s hand had twitched back to the floor , but before they could say another word of Black family . “ I ’ m going to bed with me ! He was going to try and get to the door , ” said Ron in disbelief
+ 
+Epoch 50:
+Harry is — with Harry and George pushed open his eyes when he had just been knocked out of it before he had first met him . “ You ’ ve got the right book , Ron , ” said Hermione in a low , worried . She took her wand from Harry to look down at her . She looked very pleased . She took a long , tremulous look and turned
+ 
+Epoch 60:
+Harry is moan by the Wizengamot , and he was always talking to himself . Offer something ? Was he truly master … not ? ” “ Yes , but — but — not that — you ’ re not a wizard , Harry . … ” “ I don think of those , is he ? I was just telling him something . ” “ Well … yeah … ” said Bagman
+ 
+Epoch 70:
+Harry is with the others as they ’ re the ones to be left , it must perform Wizarding community , but I think we ’ re just going into hiding them . ” They were talking quietly at their faces . “ Filth ! ” said Fred . He was looking at Hermione , who was now patting Harry ’ in his hand , and said , “ Well — ” “
+ 
+Epoch 80:
+Harry is wonderful again . It was very late … “ No … ” He opened his eyes . “ You are quite right , Harry , ” said Dumbledore hesitantly . He turned his wand without the man still standing , which , as though frightened of dirtying , sweeping the ground between his teeth , and he took out his wand , muttered , “ Harry , come on now .
+ 
+Epoch 90:
+Harry is alone this for sure that I ’ ll go and check Common your team , and I think I will be delighted by next . I ’ ve never had a good idea of your way into that room … ” But she looked suddenly and angry . After a few seconds ’ he turned over , and he slid out Ron , Hermione ’ s arms wide . There wasn
+ 
+Epoch 100:
+Harry is reassured for Harry ’ d do , he was going to go wrong . … It wasn , who had it really worked … for this , Harry , the more subjects he had ever heard of a career as large giants these girls ’ , and Harry had to buy the Invisibility where book had just been a waste week of practice . Harry , meanwhile , had been a
+ 
+This took 5519.905243396759s

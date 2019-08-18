@@ -1,0 +1,39 @@
+Model 1 : Bi-2-512
+seq_size : 64
+embedding_size : 256
+num_layers : 2
+lstm_size : 512
+gradients_norm : 5
+is_bidirectional : True
+  
+Epoch 10:
+Harry is to be in the Ministry . I don was going to be in the way . ” “ You ’ m going to do , I don , you know , ” said Harry , and he could see . “ I can have a good - Who is not to be a good , you ’ ve got a few of the Dark Arts ! You can have to be
+ 
+Epoch 20:
+Harry is , but it was no longer to do , it ’ d be in the hospital wing at Hogwarts . … But the rest , he ’ d be able a bit more difficult . He knew that he was in the world , and he was still trying not to be a bit more to the hospital of the Dark Arts , but I ’ d just be a lot
+ 
+Epoch 30:
+Harry is to do , I was going to do it , and he was trying ter be able . … I think he ’ d got a new broom . I ’ m sorry , ” she said . She turned the corner , and she turned to Harry and Ron and Ron ’ s hand , and Harry saw the others ’ s head was sitting on a table , and
+ 
+Epoch 40:
+Harry is , and it ’ ll take him back to the castle and find out a few days , I think I ’ m going on — and we don ’ want a bit o ’ a bit of a good , ” said Harry , who seemed determined . “ I ’ m sorry ! ” “ I don ’ s just think I can do , I can , you
+ 
+Epoch 50:
+Harry is . … He had been so keen for the first time . He had no chance for the last time , the most beautiful , and he could not be able for the rest , but he was sure he was going on . “ I ’ m sorry ! ” Harry yelled . “ What ’ s the matter ? ” “ Yes — I don , you ’ re
+ 
+Epoch 60:
+Harry is to him ; his father was going back , but he didn ’ seem ter know , I think , it was a bit of a good , and that he ’ d never have been able to find the boy to die , but it was a very good person . ” He looked at her , but he was sure that he was going to have a clue .
+ 
+Epoch 70:
+Harry is up . “ What ’ ve you got to be here ! What is that ? ” Ron said to Hermione , who looked at each other and turned to Ron , who was still looking around . The door was open again . The crowd was thinning . The door of a door opened , then a second later , his face in a rush of gold and a strong
+ 
+Epoch 80:
+Harry is . “ I thought you would know , ” he told Harry and Ron , “ you can tell me why Dumbledore would have been killed , I think , it ’ ll be a good chance to hide him . … ” “ What ? What are they going ? What are they going to get in to ? ” “ I ’ m sure , Harry ! You ’
+ 
+Epoch 90:
+Harry is in . “ You know ? I ’ ve got to go and get it out of here , ” he went back into the room . “ I don , you ’ d like to see you in the first week of it — ” “ I don , I ’ m not sure that ’ s why you ’ re going to do anything , I ’ m sorry
+ 
+Epoch 100:
+Harry is up . “ You know , you can ’ leave . … What ’ ll happen ? ” said Hagrid . Harry looked around at him . He had not noticed that the whole story seemed to have been in his life . “ So , ” said Dumbledore , smiling . Harry looked back at Harry , and he looked back at the sight of Harry and Hermione . “
+ 
+This took 4088.552517414093s

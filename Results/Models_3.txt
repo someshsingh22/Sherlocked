@@ -1,0 +1,39 @@
+Model 3 : Uni-2-512
+seq_size : 64
+embedding_size : 256
+num_layers : 2
+lstm_size : 512
+gradients_norm : 5
+is_bidirectional : False
+  
+Epoch 10:
+Harry is not to be able . I don ’ t know that you are not going to be in a good time . He ’ d be able to get out . ” He looked up to the ground . Harry felt the only time he would be in an Auror . “ Well — ” “ I ’ ve never been a good - borns , I ’ d have to
+ 
+Epoch 20:
+Harry is , I know , and I think we can be a bit more than I ’ ve been trying , ” Harry lied . The door of Harry was still standing at his face , then looked around at his knees at the end of the window . “ I ’ ve got a lot of the Dark Arts . ” “ I think you should have a good , but
+ 
+Epoch 30:
+Harry is not even to do with the Ministry , but he was not to tell me what he was going to get back , but it was not a very nice , very long . I can ’ t have a lot , and I don ’ know what I want , and if he ’ d better get back to the Department , ” said Ron . “ You ’ ll
+ 
+Epoch 40:
+Harry is not . … I have no idea , I ’ m afraid I could be in the hospital wing . … ” “ I ’ m not going back to the Ministry of the Phoenix , I ’ ve got to be a bit . I ’ ve had enough . ” He looked around at Ron . “ I think we ’ re not supposed to be in the Order
+ 
+Epoch 50:
+Harry is not . ” “ I ’ re not supposed ter be able to see him . ” “ But I don — not — ? ” “ I think it ’ s the point , you ’ ll go back to bed ! I don , you know . Goin ’ s a good , ” said Hermione , looking around . Harry looked around and sat down , staring at
+ 
+Epoch 60:
+Harry is at Hogwarts . He had never seen her before . … ” “ But you didn never have a good idea ! I think I was going , I think I knew what I was saying — well — I ’ m not going . … I ’ ve got to go to bed and see you . … ” “ I don ’ t know what it was , Harry
+ 
+Epoch 70:
+Harry is . “ You are the one , ” she said . He looked at Harry , and he was not going . The Dursleys knew that she had been looking for him . He had to admit it . “ But he didn ’ ta heard him . I don ’ know what he ’ ll have to do , I mean , it was just that you can get rid
+ 
+Epoch 80:
+Harry is , but he never thought he ’ s a good idea , but he ’ d have to go back to Azkaban . ” Harry felt a little more than his smarting , but he was still fuming : “ I ’ ave nevair a very clever boy in the Daily Prophets for the Disposal o the tournament . ” Dumbledore turned away and saw that he could not help feeling
+ 
+Epoch 90:
+Harry is . ” Harry stared back at him ; he had never heard him say that the Dursleys had heard that the room had been made to take the cloak , to find himself facing his father , but he did so . … “ I ’ ve never known , I think it is , ” said Hermione , looking up . The other teachers were sitting on the spot where
+ 
+Epoch 100:
+Harry is not have been going to . “ The Dark Lord wants to kill the Stone for a while — ” “ Yes , I think you ’ ve been thinking of a boggart , Harry ? I ’ m afraid I am sure it is , I ’ m sure I was a bit more cheerful — I don , I ’ ll see him . He says he misses the
+ 
+This took 4084.988041639328s
