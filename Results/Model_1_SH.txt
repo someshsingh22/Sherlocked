@@ -1,0 +1,47 @@
+Model 1 : Bi-2-512
+seq_size : 64
+embedding_size : 256
+num_layers : 2
+lstm_size : 512
+gradients_norm : 5
+is_bidirectional : True
+
+Epoch 10:
+
+Harry is the man . He was no very very own . The other , and you have no a very man of the man in this . I had been a own room . I have been the very room . He was the very room . I had been a own of his very man of a man . It was his very man , and it was a man .
+
+Epoch 20:
+
+Harry is the same thing , said he . I have no doubt that I had been so much . I was not to be a very interesting , but he had a very good man , and his head was a very interesting one which he could not be in my hand . I have a very good man . It would have been in my mind . I was sure to
+
+Epoch 30:
+
+Harry is to you ! said she ; it may be a very bad man . You are sure of the matter ? I have no one to be a man . I have been in the case of this ? Well ? I am sure , Watson ? No , sir . I will be sure that it was not possible to see it , Mr . Holmes . I am not
+
+Epoch 40:
+
+Harry is to me to be a little thing , said the detective , with his hand upon my face . You are not a man of yours ? I am sure , Watson , you know , said I ; I have no doubt you would have a very interesting man . He was a very good one and a man , but it was the only one of a man who
+
+Epoch 50:
+
+Harry is a man , said Holmes . I have no difficulty , Mr . Holmes ; I have no doubt , said I . You are very good . I think it will come . You can see it , said the detective with the air . It will be a very bad one . You must not have a word to you for a few hours . You have no doubt
+
+Epoch 60:
+
+Harry is the name is in the case which you have done ? I have been a little , said he . I will be glad of it to me . I have no difficulty in my own room , and Ill have the goodness to say that it was a very serious thing for me , and I have no idea that it was a bit of a man in the matter
+
+Epoch 70:
+
+Harry is to you , said he ; for you can come up to a little time . I have not seen a case in this matter , said I . I think , said I . But you must find it up . You are aware that I have never seen a little more interesting and more . I am not a good thing , and I have not seen the facts
+
+Epoch 80:
+
+Harry is the gentleman of the sort . You have a note of your own . I have a very good , said the lady ; and I am not aware of it . You are aware that I should have been a very serious one . You will excuse me , sir , but the man is a little too much to be humored , since the case is not to be
+
+Epoch 90:
+
+Harry is an English fellow answered . You are the best , sir , said Holmes . I have no wish to say , and I have no wish to see him . You have not yet heard of him , then , and you will be very much obliged if you will go out . I have no wish that it was to you . You will find me out , Watson
+
+Epoch 100:
+
+Harry is the case of the matter ? It was very probable that it is not difficult . It was a very large vigil . He has no idea of him , and he was a little to the best of the police , for he was not a good payer , for he had a considerable rpertoire . The fact that the man who had initiated him was a little more than

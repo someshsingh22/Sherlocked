@@ -1,0 +1,47 @@
+Model 4 : Uni-1-1024
+seq_size : 64
+embedding_size : 256
+num_layers : 1
+lstm_size : 1024
+gradients_norm : 5
+is_bidirectional : False
+
+Epoch 10:
+
+Harry is a man who had not been the same . It was a little of the most remarkable , and that he had no reason to the end . It would be the most probable . The case is very clear . He has been the most important , but I am sure that you will find it . He was not a man , but I was not to see him
+
+Epoch 20:
+
+Harry is a good many of the most singular . I was a man with the intention that I was very glad to hear the case of his own accord ; and he would have no difficulty in the matter , and yet I have had the opportunity . He had been a very good , and one who is in the room of the house , and the two of them had
+
+Epoch 30:
+
+Harry is to be able in the world . I am not sure that I have no desire in my life . I have been a little over to the station . I have a very pretty little time to make it clear to the matter . I think , said he ; but the matter has been done , but it is that he is innocent . I have a caseful in
+
+Epoch 40:
+
+Harry is to be associated with the matter . It may be some of interest in the case , and I am sure . Maudie , I am sure . Well have been in the habit of making inquiries to the man whom I can . Then I shall go down . You have not seen a little , but it is not a case of ours , said he . I am
+
+Epoch 50:
+
+Harry is mine . He is a very pretty Italian one , and I am glad you will be in time with me . I have no doubt , Watson ; but I think that I shall be very much obliged if I can be of any importance to your collection and discretion , Mr ; the whole incident may have a very serious matter to the end . If you will permit
+
+Epoch 60:
+
+Harry is mine as I had thought . Then perhaps you must go out , and I will not help you to have a little more quiet , but it may be a very great deal less to the matter . I will tell you , however , that I should find a better place by your own way in doing it , and to have the least hold out of it .
+
+Epoch 70:
+
+Harry is to be done to night , for I have not seen the same person who can ever be at the Copper Beeches , and so long to get at a disadvantage to that effect which would destroy the matter more . I can hardly imagine how it was the matter . I was not surprised when I had to put up the rope in his room , and it was a
+
+Epoch 80:
+
+Harry is more subtle and more dangerous to the public . I had no time to think of it all . It is of no use to us to the house , and I think I would go to the house agents in the City . That was how I read my things and my assistance . I was so firmly convinced , however , to make restitution . It would have a
+
+Epoch 90:
+
+Harry is to present in a matter . I should be very much obliged if he is after . He would only his destruction in his pocket book and his mind in a paroxysm which was not to be lost for my poor old school . It was only a thing which had occurred since I have confided to my friend . It seems a little difficult for you if it does not
+
+Epoch 100:
+
+Harry is more to be of half an hour . I will tell you the queerest part to be of my fathers , sir . He has a very strong account for the one , which has prompted the young mans story , and that he is innocent . Now he may find his way into my head . He was as eager as a bulldog as ever . I had to be

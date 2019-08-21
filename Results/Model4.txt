@@ -1,0 +1,217 @@
+Model4
+Epoch 10:
+This is known my own , but I have been here in my own way . I think it is that you can imagine how you have been able , Mr , Holmes . It was the most deplorable occurrence that you will find that I am not to be trusted , and I will make you not , said Holmes quietly . I will make you not a very good reason for
+--------------------
+
+Loss: 3.6398231983184814 Time Taken : 114.37840151786804
+Loss: 3.5578250885009766 Time Taken : 114.35314536094666
+Loss: 3.4852986335754395 Time Taken : 114.36510419845581
+Loss: 3.4203667640686035 Time Taken : 114.43454647064209
+Loss: 3.3594939708709717 Time Taken : 114.38071393966675
+Loss: 3.2867116928100586 Time Taken : 114.34965777397156
+Loss: 3.234586715698242 Time Taken : 114.35953521728516
+Loss: 3.198732614517212 Time Taken : 114.35246682167053
+Loss: 3.1465048789978027 Time Taken : 114.35697627067566
+Loss: 3.0953919887542725 Time Taken : 114.36633443832397
+-------------------- 
+Epoch 20:
+This is not happy . I have been in touch the house , and we have to be able to do the theorizing . The man was in a very different establishment , and I could have seen him . Then he raised himself to a side , said Holmes with an oath , as the handcuffs clanked into the room . He was a fine man with his hands , and his
+--------------------
+
+Loss: 3.035914897918701 Time Taken : 114.000652551651
+Loss: 2.9870693683624268 Time Taken : 113.9475359916687
+Loss: 2.9536619186401367 Time Taken : 113.89626693725586
+Loss: 2.9057564735412598 Time Taken : 113.90198755264282
+Loss: 2.872098207473755 Time Taken : 113.86510801315308
+Loss: 2.8381495475769043 Time Taken : 113.89919853210449
+Loss: 2.793850898742676 Time Taken : 113.88882064819336
+Loss: 2.760018825531006 Time Taken : 113.84892106056213
+Loss: 2.7374422550201416 Time Taken : 113.85763049125671
+Loss: 2.7035281658172607 Time Taken : 113.79445552825928
+-------------------- 
+Epoch 30:
+This is Sir , and we shall get it out of the house and let them go back to our cottage . It was the first time , and that I must be the last to turn the facts to the world of the man . I think that you will be very far from the police station , Mr now , for it begins to you , Mr . Holmes , for
+--------------------
+
+Loss: 2.666987419128418 Time Taken : 114.30386710166931
+Loss: 2.6230196952819824 Time Taken : 114.33857369422913
+Loss: 2.594311237335205 Time Taken : 114.29139566421509
+Loss: 2.5716488361358643 Time Taken : 114.31318974494934
+Loss: 2.5551655292510986 Time Taken : 114.33784413337708
+Loss: 2.516401529312134 Time Taken : 114.30546832084656
+Loss: 2.4924824237823486 Time Taken : 114.34358072280884
+Loss: 2.4635655879974365 Time Taken : 114.3491325378418
+Loss: 2.4473717212677 Time Taken : 114.32043266296387
+Loss: 2.4218976497650146 Time Taken : 114.28355979919434
+-------------------- 
+Epoch 40:
+This is Von Bork said Gregory , and the lady in his hand . The two men were on their track , as the old man sank into a corner . It was a wild , amiable boy , as he turned into a hearty , and , finally air in the air and a bundle in the lock he saw , and then , looking at the door and he closed .
+--------------------
+
+Loss: 2.387303352355957 Time Taken : 114.32580542564392
+Loss: 2.358853578567505 Time Taken : 114.34152007102966
+Loss: 2.3466436862945557 Time Taken : 114.31618118286133
+Loss: 2.3280866146087646 Time Taken : 114.34546375274658
+Loss: 2.317112922668457 Time Taken : 114.33780884742737
+Loss: 2.2845659255981445 Time Taken : 114.3387758731842
+Loss: 2.249197244644165 Time Taken : 114.33200764656067
+Loss: 2.2189886569976807 Time Taken : 114.33756375312805
+Loss: 2.2016637325286865 Time Taken : 114.36864066123962
+Loss: 2.179579257965088 Time Taken : 114.36411261558533
+-------------------- 
+Epoch 50:
+This is distinctive state fine night in the other . There was an envelope which had been left in his hand . But at that moment there is no sign which I had to overlook . And why did you say so far as I can , but you must have done so , for it is a very common and remarkable man . But you have the goodness been in the service
+--------------------
+
+Loss: 2.163956642150879 Time Taken : 114.31314778327942
+Loss: 2.142373561859131 Time Taken : 114.32305479049683
+Loss: 2.1242306232452393 Time Taken : 114.36340594291687
+Loss: 2.1034436225891113 Time Taken : 114.34628415107727
+Loss: 2.083690643310547 Time Taken : 114.34221959114075
+Loss: 2.0617120265960693 Time Taken : 114.36868047714233
+Loss: 2.05043625831604 Time Taken : 114.34633660316467
+Loss: 2.0296056270599365 Time Taken : 114.35712718963623
+Loss: 2.0079331398010254 Time Taken : 114.33622789382935
+Loss: 1.9842184782028198 Time Taken : 114.37369537353516
+-------------------- 
+Epoch 60:
+This is names coach hideous shorter . About a quarter mile posts from you since I had been off by a visit to my rooms at my rooms , at any rate , and if I am I to refuse you . It is a little to call for it , said he at once . It was a widespread and unexpected . It was at that very evening of the morning .
+--------------------
+
+Loss: 1.9682761430740356 Time Taken : 114.34656071662903
+Loss: 1.9443714618682861 Time Taken : 114.37566995620728
+Loss: 1.929012417793274 Time Taken : 114.34655857086182
+Loss: 1.9214335680007935 Time Taken : 114.34176230430603
+Loss: 1.9145088195800781 Time Taken : 114.36211371421814
+Loss: 1.894987940788269 Time Taken : 114.36791276931763
+Loss: 1.873107671737671 Time Taken : 114.36061477661133
+Loss: 1.8532389402389526 Time Taken : 114.36593794822693
+Loss: 1.8458775281906128 Time Taken : 114.36566495895386
+Loss: 1.8319071531295776 Time Taken : 114.36809468269348
+-------------------- 
+Epoch 70:
+This is needle defined captain Setting taps Best writing fresh fresh from Albus , and others nearly night you were right . The book that shall be the one of the ancient Wizarding families of Charles dying in order to continue his headquarters in the country . I believe the state of the various points in which I have named , as I have already said the last word to the matter ,
+--------------------
+
+Loss: 1.8205910921096802 Time Taken : 114.35201621055603
+Loss: 1.8046927452087402 Time Taken : 114.35027432441711
+Loss: 1.7952384948730469 Time Taken : 114.36688208580017
+Loss: 1.7834266424179077 Time Taken : 114.37052512168884
+Loss: 1.7780286073684692 Time Taken : 114.36365842819214
+Loss: 1.7654907703399658 Time Taken : 114.36243867874146
+Loss: 1.7589935064315796 Time Taken : 114.39297795295715
+Loss: 1.7433977127075195 Time Taken : 114.36245965957642
+Loss: 1.728730320930481 Time Taken : 114.34548354148865
+Loss: 1.7093628644943237 Time Taken : 114.35231065750122
+-------------------- 
+Epoch 80:
+This is Baskerville languid minister often because I have named only one who can prevent me from being closely on one of your neighbors out . ” Harry nodded . The two of that had been given permission from any of his wizarding relatives . “ You ’ ve had more than fifty eyewitnesses now . ’ ” “ You sound really , ” said Ron in mock outrage . Harry ignored her
+--------------------
+
+Loss: 1.6956301927566528 Time Taken : 114.38100624084473
+Loss: 1.6798124313354492 Time Taken : 114.36840724945068
+Loss: 1.6688556671142578 Time Taken : 114.36817622184753
+Loss: 1.655022382736206 Time Taken : 114.34147262573242
+Loss: 1.6466065645217896 Time Taken : 114.38093876838684
+Loss: 1.6349143981933594 Time Taken : 114.39411568641663
+Loss: 1.628697156906128 Time Taken : 114.37732934951782
+Loss: 1.6190487146377563 Time Taken : 114.36209058761597
+Loss: 1.6119824647903442 Time Taken : 114.36491012573242
+Loss: 1.6007312536239624 Time Taken : 114.3506669998169
+-------------------- 
+Epoch 90:
+This is impress Wonder myself decided Muggles to ask seven were so wet when we returned in town . ” “ What sort your arm , is he ? And the Defense Black . He was saving a record of it , ” Harry added quickly in amazement . He had never seen it . If Snape could have had it with sneaking out the clue inside it and he had been forced
+--------------------
+
+Loss: 1.595423936843872 Time Taken : 114.13167643547058
+Loss: 1.5881534814834595 Time Taken : 114.14903020858765
+Loss: 1.5827062129974365 Time Taken : 114.1698260307312
+Loss: 1.5685724020004272 Time Taken : 114.17779421806335
+Loss: 1.5562012195587158 Time Taken : 114.23624396324158
+Loss: 1.540178894996643 Time Taken : 114.17192769050598
+Loss: 1.5343186855316162 Time Taken : 114.12836647033691
+Loss: 1.5255402326583862 Time Taken : 114.13305139541626
+Loss: 1.5166627168655396 Time Taken : 114.21740913391113
+Loss: 1.502300500869751 Time Taken : 114.19866061210632
+-------------------- 
+Epoch 100:
+This is watchers pulse Mormon mumbling main soon gritted shortly barely words . ” “ And what about the holidays . Voldemort showed where he was . ” Harry , Ron , Hermione too . It would be a very good time since , and he and Ron were having the good fortune for something that had to be the worst one from the secret . “ But if it makes me the
+--------------------
+
+Loss: 1.4909223318099976 Time Taken : 114.34940576553345
+Loss: 1.4802135229110718 Time Taken : 114.3626639842987
+Loss: 1.4724353551864624 Time Taken : 114.36575555801392
+Loss: 1.4631513357162476 Time Taken : 114.35938143730164
+Loss: 1.4601012468338013 Time Taken : 114.3739378452301
+Loss: 1.4535259008407593 Time Taken : 114.364506483078
+Loss: 1.4513814449310303 Time Taken : 114.3606288433075
+Loss: 1.443873405456543 Time Taken : 114.35456252098083
+Loss: 1.439461350440979 Time Taken : 114.36628651618958
+Loss: 1.43028724193573 Time Taken : 114.36019587516785
+-------------------- 
+Epoch 110:
+This is watchers bluff future rim crown constables acquire polishing yellowish clearing . Sirius grasped the end with the wand had slipped , glittering , and dirty , sorted that to a single patch from platform ; the sword of Godric ’ s hand had given Harry a handsome , olive - skinned , slightly - handle , and an extremely shabby piece of material . “ What are we — doing with
+--------------------
+
+Loss: 1.4235981702804565 Time Taken : 114.34007573127747
+Loss: 1.4144890308380127 Time Taken : 114.36576986312866
+Loss: 1.409254550933838 Time Taken : 114.37232780456543
+Loss: 1.4018510580062866 Time Taken : 114.36535000801086
+Loss: 1.398590087890625 Time Taken : 114.37023496627808
+Loss: 1.3916294574737549 Time Taken : 114.36209511756897
+Loss: 1.3915627002716064 Time Taken : 114.35204005241394
+Loss: 1.3864266872406006 Time Taken : 114.37237358093262
+Loss: 1.3845338821411133 Time Taken : 114.36470031738281
+Loss: 1.3746532201766968 Time Taken : 114.35902976989746
+-------------------- 
+Epoch 120:
+This is watchers research beams Knows Stupid beach obey betray hanged combination detectives dipped accounts accustomed brown sisters when says You getting well . I read your head down , with a smile , and then , what a fool of evil has just passed over four . The first message on the second floor we would be ready to give any definite result except that it was not the mere random sketches
+--------------------
+
+Loss: 1.3662893772125244 Time Taken : 114.34734416007996
+Loss: 1.3535836935043335 Time Taken : 114.36170864105225
+Loss: 1.3447227478027344 Time Taken : 114.36082983016968
+Loss: 1.334708571434021 Time Taken : 114.36470222473145
+Loss: 1.3274874687194824 Time Taken : 114.36403703689575
+Loss: 1.3183519840240479 Time Taken : 114.3649628162384
+Loss: 1.312497854232788 Time Taken : 114.38166832923889
+Loss: 1.3055386543273926 Time Taken : 114.37091445922852
+Loss: 1.301418423652649 Time Taken : 114.36985445022583
+Loss: 1.295333743095398 Time Taken : 114.3580994606018
+-------------------- 
+Epoch 130:
+This is defend forgetting warrant presume Barty quarter baby Lestrade You come away inside me . My books is down for me . I shall not tell lies . I will not be here in anything of your past and value at times as last to come . I can hope for you about the course of events . … You will be able — not that . But what about Voldemort getting
+--------------------
+
+Loss: 1.2917126417160034 Time Taken : 114.34881091117859
+Loss: 1.2837419509887695 Time Taken : 114.36030316352844
+Loss: 1.2789092063903809 Time Taken : 114.35069370269775
+Loss: 1.2705402374267578 Time Taken : 114.36914443969727
+Loss: 1.2645515203475952 Time Taken : 114.37169933319092
+Loss: 1.2574087381362915 Time Taken : 114.36395597457886
+Loss: 1.2528729438781738 Time Taken : 114.37124633789062
+Loss: 1.246395468711853 Time Taken : 114.37783098220825
+Loss: 1.2432798147201538 Time Taken : 114.35310959815979
+Loss: 1.2378394603729248 Time Taken : 114.3855926990509
+-------------------- 
+Epoch 140:
+This is iron Sunday slashed Alas hopefully entrance , now . The rest don ’ best enough , isn ’ nice it ? ” “ I wish he hadn ’ gone away , didn themselves , I mean , I ’ ll have it out for you . ” He got to go , Harry dropped into a seat without speaking , “ Ron ! ” He looked around at the class with
+--------------------
+
+Loss: 1.2357101440429688 Time Taken : 114.36024856567383
+Loss: 1.2310032844543457 Time Taken : 114.3762674331665
+Loss: 1.2297701835632324 Time Taken : 114.37104892730713
+Loss: 1.22520112991333 Time Taken : 114.36533784866333
+Loss: 1.2239083051681519 Time Taken : 114.37605500221252
+Loss: 1.218984603881836 Time Taken : 114.36297297477722
+Loss: 1.2169435024261475 Time Taken : 114.38221430778503
+Loss: 1.2118124961853027 Time Taken : 114.36390256881714
+Loss: 1.209701418876648 Time Taken : 114.38752365112305
+Loss: 1.204612374305725 Time Taken : 114.36124300956726
+-------------------- 
+Epoch 150:
+This is Hokey hired star to Snape . Snape followed Quirrell , though in spite of the eyes of the candle flickering filled the elf clutching the elf a look on her brother and his father — His hands had so many four years of Hogwarts , the “ wand ! ” “ Oh — it is a very brave moment , and a — dangerous — ” A Wizarding snake backed away
+--------------------
+
+
+This took 17148.36209344864s
