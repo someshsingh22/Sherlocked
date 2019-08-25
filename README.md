@@ -1,11 +1,13 @@
 # Sherlocked
 
-This is a text generator that tries to imitiate the writing style of *Arthur Conan Doyle*
-and recreate text from 
-The Model is trained on keras using Python
-The model uses a bidiriectional LSTM layer to generate text
+This is a text generator that tries to imitiate the writing style of different authors like *Arthur Conan Doyle*, *JK Rowling* and recreate text.
+The Model is trained on pytorch using Python.
+The model creates textual embeddings and LSTM layers.
 
-5 samples are in samples.txt
+Parts of the Application :
+
+**Author** 
+
 
 ### NEXT ? :
 For further exploaration a different form of model is also trained on the poems of william shakespeare the datasets are in dataset folder
